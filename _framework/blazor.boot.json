@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BxApps.dll": "sha256-AdWDTDtTu6IJGT3HUxJ5pn1PAAb9foaBwwYsNEXi\/M8=",
+      "BxApps.dll": "sha256-Sv5JXm0UEBNW0F4xwD5AmcW6BWi3N3lhkXxzG3sU6Ms=",
       "Microsoft.AspNetCore.Components.dll": "sha256-IcAHX8fN\/my94uCl+IwwxkASxtadeehpLlw1UUo38t4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-2rO\/gzTd998m+8Y0Mxs7q12dMGmyXv82q2ymjH0eWDg=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Gbqji2nIbUDVULZGqPXNOcDg\/FDOSbTwyq+Dx8GmhfE=",

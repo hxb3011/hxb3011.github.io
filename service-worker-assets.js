@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-iVuVbCcv\/BbPEVWOY\/9qqq\/n6Em7UwOEbY+e\/\/TisgM=",
+      "hash": "sha256-s0ZDMw0WpZ6D0xFVZwLBXTz0i1ce1PoznsRF9eWBJuU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-AdWDTDtTu6IJGT3HUxJ5pn1PAAb9foaBwwYsNEXi\/M8=",
+      "hash": "sha256-Sv5JXm0UEBNW0F4xwD5AmcW6BWi3N3lhkXxzG3sU6Ms=",
       "url": "_framework\/BxApps.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-xgR\/t9bE5sDLU7TtknKXRNqmIMN9+on\/C3OzX5eX8Ls=",
+      "hash": "sha256-rQpPHRBNuifc154TOGV39ZUU\/p7QsUaMiHoNCYjGEzI=",
       "url": "404.html"
     },
     {
@@ -181,7 +181,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-xgR\/t9bE5sDLU7TtknKXRNqmIMN9+on\/C3OzX5eX8Ls=",
+      "hash": "sha256-rQpPHRBNuifc154TOGV39ZUU\/p7QsUaMiHoNCYjGEzI=",
       "url": "index.html"
     },
     {
@@ -189,5 +189,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "wE3XvGhv"
+  "version": "Yv1dJBKx"
 };
