@@ -157,7 +157,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-rQpPHRBNuifc154TOGV39ZUU\/p7QsUaMiHoNCYjGEzI=",
+      "hash": "sha256-LMzYkzo96Wtoo1a6GNqXzCZUzdaOdBbMTKhWo962qjA=",
       "url": "404.html"
     },
     {
@@ -181,7 +181,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-rQpPHRBNuifc154TOGV39ZUU\/p7QsUaMiHoNCYjGEzI=",
+      "hash": "sha256-LMzYkzo96Wtoo1a6GNqXzCZUzdaOdBbMTKhWo962qjA=",
       "url": "index.html"
     },
     {
@@ -189,5 +189,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "Y9MmJjGW"
+  "version": "SuuIatR5"
 };
