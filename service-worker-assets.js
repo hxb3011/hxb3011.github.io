@@ -157,6 +157,10 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
+      "hash": "sha256-QbNCMAQBvmJ48epgvuZl5oBzcAFDkUTD6a6O8znnI6g=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-EtpoAoD1TOIxXmQdNs5J0w0CphxTNjuOFiAIT3ddtjg=",
       "url": "apps.json"
     },
@@ -185,5 +189,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "mEzNM1Qo"
+  "version": "re5zew0r"
 };

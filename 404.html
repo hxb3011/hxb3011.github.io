@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>BxApps</title>
+    <base href="/" />
+    <!-- <link href="BxApps.styles.css" rel="stylesheet" /> -->
+    <link href="favicon.ico" rel="icon" type="image/x-icon" />
+    <link href="favicon.svg" rel="icon" type="image/svg+xml" />
+    <link href="manifest.json" rel="manifest" />
+    <link href="icon-512.png" rel="apple-touch-icon" sizes="512x512" />
+    <link href="icon-192.png" rel="apple-touch-icon" sizes="192x192" />
+
+    <style>
+        html {
+            background-color: #404040;
+        }
+
+        @media only screen and (prefers-color-scheme: light) {
+            html {
+                background-color: #ffffff;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container" class="app">
+        <img src="favicon.svg" style="display: block; margin: auto; width: 96px; position: absolute; inset: 0;" />
+        <div style="display: none;">
+            An unexpected error has occurred.
+            <a href="" class="reload">Reload</a>
+            <a class="dismiss">🗙</a>
+        </div>
+    </div>
+
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register("service-worker.js");</script>
+</body>
+
+</html>
