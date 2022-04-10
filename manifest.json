@@ -1,6 +1,6 @@
 {
-  "name": "BxApps",
-  "short_name": "BxApps",
+  "name": "Bx",
+  "short_name": "Bx",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
